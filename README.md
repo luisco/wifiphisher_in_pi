@@ -72,9 +72,12 @@ sudo python setup.py install
 
 La consola de instalación nos pregunta que si instalamos Hostapd y dnsmasq a lo cual digitaremos la tecla “y”
 
+![Error](/img/setup.png)
 
 
 la siguiente pantallla nos indica que la instalacion fue correcta
+
+![Error](/img/install_ok.png)
 
 
 # Primera Ejecución
@@ -107,7 +110,7 @@ Una vez instalado todo, solo falta empezar a utilizar la herramienta con sus mod
 
 
 
-
+![Error](/img/firts.png)
 
 
 A veces tenemos  errores de asignación de mac, por lo cual  se hace necesario utilizar el parametro -iNM
