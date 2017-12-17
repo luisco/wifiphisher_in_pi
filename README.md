@@ -1,12 +1,12 @@
 
 
-#WIFIPHISHER EN RASPBERRY
+# WIFIPHISHER EN RASPBERRY
 
 
 Es este tutorial vamos a instalar wifiphisher en nuestra rapsberry pi
 
 
-##Instalación
+## Instalación
 
 
 Y como simepre la mayoria de cosas, se empieza verificando nuestras interfaces de red
@@ -77,7 +77,7 @@ La consola de instalación nos pregunta que si instalamos Hostapd y dnsmasq a lo
 la siguiente pantallla nos indica que la instalacion fue correcta
 
 
-
+# Primera Ejecución
 
 
 Cuando intentamos ejecutar la aplicación por  primera vez, 
