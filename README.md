@@ -88,6 +88,7 @@ wifiphisher -aI wlan0 -p firmware-upgrade --handshake_capture handshake.pcap
 
 nos sale los siguientes errores
 
+![Error](/img/error.png)
 
 Con lo cual instalamos los dos siguientes paquetes:
 
